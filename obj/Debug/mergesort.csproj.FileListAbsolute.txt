@@ -1,0 +1,7 @@
+D:\software\github\mergesort\mergesort\bin\Debug\mergesort.exe.config
+D:\software\github\mergesort\bin\Debug\mergesort.exe.config
+D:\software\github\mergesort\bin\Debug\mergesort.exe
+D:\software\github\mergesort\bin\Debug\mergesort.pdb
+D:\software\github\mergesort\obj\Debug\mergesort.csprojResolveAssemblyReference.cache
+D:\software\github\mergesort\obj\Debug\mergesort.exe
+D:\software\github\mergesort\obj\Debug\mergesort.pdb
